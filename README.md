@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Civilun AI](app/icon.svg)
+![Civilun AI](icon.svg)
 
 **منصة ذكاء اصطناعي متقدمة متخصصة في الهندسة المدنية والتحليل الإنشائي وإدارة المشاريع**
 
